@@ -314,50 +314,11 @@
                 box-sizing: border-box;
                 white-space: nowrap;
                 background-color: $green-color;
-                font-weight: normal;
+                color: $background-color;
                 border-bottom-right-radius: 0.5ex;
                 border-top-right-radius: 0.5ex;
             }
         }
-
-/*
-        #mc_embed_signup_scroll {
-            display:table;
-            width: 100%;
-            border-collapse: separate;
-
-            #mce-EMAIL {
-                display: table-cell;
-                box-sizing: border-box;
-                width: 100%;
-                height: 2em;
-                font-size: $base-font-size;
-                border-style: solid;
-                border-color: $grey-color;
-                border-width: 1px;
-                padding: 0;
-                margin: 0;
-            }
-
-            #subscribe-button {
-                display: table-cell;
-                box-sizing: border-box;
-                position: relative;
-                padding: 0;
-                margin: 0;
-
-                #mc-embedded-subscribe {
-                    -webkit-appearance: none;
-                    display: inline-block;
-                    height: 2em;
-                    font-size: $base-font-size;
-                    background-color: $livecode-green;
-                    border-style: none;
-                    border-width: 0;
-                }
-            }
-        }
-        */
     }
 
     .subscribe-form-help {
