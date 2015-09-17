@@ -1,4 +1,15 @@
 /**
+ * Mixin for adding a border
+ */
+@mixin outline-border {
+    border-style: solid;
+    border-width: 1px;
+    border-color: $grey-color-light;
+    border-radius: 1em;
+    padding: 2em;
+}
+
+/**
  * Site header
  */
 .site-header {
@@ -193,6 +204,8 @@
     > li {
         margin-bottom: $spacing-unit;
     }
+
+    @include outline-border;
 }
 
 .post-meta {
@@ -210,6 +223,11 @@
 /**
  * Posts
  */
+
+.post {
+    @include outline-border;
+}
+
 .post-header {
     margin-bottom: $spacing-unit;
 }
@@ -249,5 +267,100 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+}
+
+/**
+ * Subscription form
+ */
+
+.subscribe {
+    margin-top: $spacing-unit;
+
+    text-align: center;
+
+    .subscribe-cue {
+        text-align: center;
+        font-size: 20px;
+    }
+
+    .subscribe-form {
+        display: inline-block;
+        text-align: left;
+
+        #mc_embed_signup_scroll {
+            display: table;
+            width: 100%;
+            #mce-EMAIL {
+                display: table-cell;
+                width: 400px;
+                height: 2em;
+                margin: 0;
+                padding: 0.5ex 1ex 0.5ex 1ex;
+                box-sizing: border-box;
+                border-style: solid;
+                border-color: $grey-color-light;
+                border-width: 1px;
+                border-bottom-left-radius: 0.5ex;
+                border-top-left-radius: 0.5ex;
+            }
+            #mc-embedded-subscribe {
+                display: table-cell;
+                width: auto;
+                height: 2em;
+                margin: 0;
+                padding: 0.5ex 1ex 0.5ex 1ex;
+                border-style: none;
+                box-sizing: border-box;
+                white-space: nowrap;
+                background-color: $green-color;
+                font-weight: normal;
+                border-bottom-right-radius: 0.5ex;
+                border-top-right-radius: 0.5ex;
+            }
+        }
+
+/*
+        #mc_embed_signup_scroll {
+            display:table;
+            width: 100%;
+            border-collapse: separate;
+
+            #mce-EMAIL {
+                display: table-cell;
+                box-sizing: border-box;
+                width: 100%;
+                height: 2em;
+                font-size: $base-font-size;
+                border-style: solid;
+                border-color: $grey-color;
+                border-width: 1px;
+                padding: 0;
+                margin: 0;
+            }
+
+            #subscribe-button {
+                display: table-cell;
+                box-sizing: border-box;
+                position: relative;
+                padding: 0;
+                margin: 0;
+
+                #mc-embedded-subscribe {
+                    -webkit-appearance: none;
+                    display: inline-block;
+                    height: 2em;
+                    font-size: $base-font-size;
+                    background-color: $livecode-green;
+                    border-style: none;
+                    border-width: 0;
+                }
+            }
+        }
+        */
+    }
+
+    .subscribe-form-help {
+        font-size: $small-font-size;
     }
 }
