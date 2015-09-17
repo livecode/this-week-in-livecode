@@ -5,7 +5,7 @@ email: opensource@livecode.com
 description: >
   This Week in LiveCode is a weekly-ish newsletter with news about the LiveCode
   open source project.  Got something to contribute? Get in touch!
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/this-week-in-livecode" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: livecode
 github_username:  livecode
