@@ -30,15 +30,20 @@ This week's edition was edited by [peter-b](https://github.com/peter-b).
 
 ## Updates in the LiveCode open source project
 
-21 pull requests were [merged in the last week](https://github.com/issues?q=is%3Apr+org%3Alivecode+is%3Amerged+merged%3A2015-09-14..2015-09-21+is%3Apublic).
+28 pull requests were [merged in the last week](https://github.com/search?l=&o=asc&s=created&type=Issues&utf8=%E2%9C%93&q=org%3Alivecode+is%3Apublic+is%3Apr+is%3Amerged+merged%3A2015-09-14..2015-09-21).
+
+### New releases
+
+* [LiveCode 7.1.0 rc 3](http://downloads.livecode.com/livecode/#7_1_0)
+* [LiveCode 6.7.7 rc 4](http://downloads.livecode.com/livecode/#6_7_7)
 
 ### Notable changes
 
-* The GitHub organisation name is now `livecode`, rather than `runrev`.  Please update your repository URLs!
-
-* In 8.0 and later:
-  * [\[emscripten\] LCB extensions in HTML5 standalones](https://github.com/livecode/livecode/pull/2813): HTML5 standalones now have LiveCode Builder extensions in them, but the extensions don't actually run yet.
-  * [Feature script editor variable filter](https://github.com/livecode/livecode-ide/pull/492): The script editor's "Variables" pane is now filterable. Also, you can control whether it shows global and environment variables.
+* **The GitHub organisation name is now `livecode`, rather than `runrev`.**  Please update your repository URLs!
+* [\[emscripten\] LCB extensions in HTML5 standalones](https://github.com/livecode/livecode/pull/2813): HTML5 standalones now have LiveCode Builder extensions in them, but the extensions don't actually run yet.
+* [Feature script editor variable filter](https://github.com/livecode/livecode-ide/pull/492): The script editor's "Variables" pane is now filterable. Also, you can control whether it shows global and environment variables.
+* [\[\[ Xcode 7.0 \]\] Make compilation possible with Xcode 7.0](https://github.com/livecode/livecode/pull/2869).
+* [\[\[Bug 14706\]\] Add beta testing entitlements for iOS applications](https://github.com/livecode/livecode/pull/2851).
 
 ### Contributors this week
 
@@ -47,9 +52,11 @@ This week's edition was edited by [peter-b](https://github.com/peter-b).
 * *[livecodefraser](https://github.com/livecodefraser)*
 * *[livecodeian](https://github.com/livecodeian)*
 * *[livecodepanos](https://github.com/livecodepanos)*
+* *[livecodesebastien](https://github.com/livecodesebastien)*
 * *[livecodestephen](https://github.com/livecodestephen)*
 * *[peter-b](https://github.com/peter-b)*
 
 ## Upcoming events
 
+* [2nd October: Ohio Linux Fest - LiveCode BOF](http://lists.runrev.com/pipermail/use-livecode/2015-September/218838.html) - **TBC**
 * [5th October - 6th October: LiveCode 8 Global Jam](https://livecode.com/how-to-make-livecode-8-great-with-the-global-jam/)
