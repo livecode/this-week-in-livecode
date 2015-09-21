@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This Week In LiveCode 1"
+title:  "This Week In LiveCode"
 date:   2015-09-21 00:00
 categories: issue
 ---
@@ -22,6 +22,7 @@ This week's edition was edited by [peter-b](https://github.com/peter-b).
 
 * [UltraEdit Wordfiles for LCS and LCB](http://lists.runrev.com/pipermail/use-livecode/2015-September/218745.html)
 * [Cool stuff coming to atom-language-livecode](http://lists.runrev.com/pipermail/use-livecode/2015-September/218792.html)
+* [MasterLibrary Version 45 now available](http://lists.runrev.com/pipermail/use-livecode/2015-September/218858.html)
 
 ### Interesting discussions
 
@@ -30,9 +31,9 @@ This week's edition was edited by [peter-b](https://github.com/peter-b).
 
 ## Updates in the LiveCode open source project
 
-28 pull requests were [merged in the last week](https://github.com/search?l=&o=asc&s=created&type=Issues&utf8=%E2%9C%93&q=org%3Alivecode+is%3Apublic+is%3Apr+is%3Amerged+merged%3A2015-09-14..2015-09-21).
+32 pull requests were [merged in the last week](https://github.com/search?l=&o=asc&s=created&type=Issues&utf8=%E2%9C%93&q=org%3Alivecode+is%3Apublic+is%3Apr+is%3Amerged+merged%3A2015-09-14..2015-09-20).
 
-### New releases
+### New LiveCode releases
 
 * [LiveCode 7.1.0 rc 3](http://downloads.livecode.com/livecode/#7_1_0)
 * [LiveCode 6.7.7 rc 4](http://downloads.livecode.com/livecode/#6_7_7)
