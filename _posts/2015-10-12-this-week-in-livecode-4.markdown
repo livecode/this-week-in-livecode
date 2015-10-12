@@ -22,6 +22,7 @@ This week's edition was edited by [peter-b](https://github.com/peter-b).
 
 * ["new" JSON library fastJson](http://forums.livecode.com/viewtopic.php?f=8&t=25479&p=132435)
 * [LiveCode List Processor](http://lists.runrev.com/pipermail/use-livecode/2015-October/219677.html)
+* [krikelKrakel](http://hyperhh.org/html5/krikelKrakel-8.0.0-dp-7X.html): HTML5 drawing app made with LiveCode.
 
 ### Interesting discussions
 
