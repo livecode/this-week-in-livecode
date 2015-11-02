@@ -17,7 +17,7 @@ This week's edition was edited by [peter-b](https://github.com/peter-b).
 
 * [language-livecode 0.6.1 for Atom editor](http://lists.runrev.com/pipermail/use-livecode/2015-October/220560.html)
 * [GLX2 editor plugin 19 beta 3](https://bitbucket.org/mwieder/glx2/downloads): currently [has issues](http://lists.runrev.com/pipermail/use-livecode/2015-October/220294.html) with LC 7+ on Linux
-* [revIgniter 1.7.3](http://revigniter.com/)
+* [revIgniter 1.7.3](http://revigniter.com/news/newsitem/revIgniter_v1.7.3_Released)
 * [revIgniter TextMate bundles 1.4.2](http://revigniter.com/#tmBundles)
 
 ### Blog posts & interesting discussions
