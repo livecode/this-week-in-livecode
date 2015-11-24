@@ -15,8 +15,8 @@ This week's edition was edited by [peter-b](https://github.com/peter-b).
 
 ### News & project updates
 
-[Feature Exchange: Find & Replace](http://livecode.com/project/find-replace/): Upgrade processing formatted text in LiveCode
-[LiveCode Keyboard Shortcuts Cards](http://2108.co.uk/freebies/)
+* [Feature Exchange: Find & Replace](http://livecode.com/project/find-replace/): Upgrade processing formatted text in LiveCode
+* [LiveCode Keyboard Shortcuts Cards](http://2108.co.uk/freebies/)
 
 ### Interesting discussions
 
