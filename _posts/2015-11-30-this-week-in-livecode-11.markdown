@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "This Week In LiveCode 11"
-date:   2015-11-23 12:30
+date:   2015-11-30 12:30
 categories: issue
 ---
 
