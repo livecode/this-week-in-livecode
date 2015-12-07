@@ -31,7 +31,7 @@ Cyril Pruszko has created an excellent set of learning resources for his lessons
 
 31 pull requests were [merged in the last week](https://github.com/search?l=&o=asc&s=created&type=Issues&utf8=%E2%9C%93&q=org%3Alivecode+is%3Apublic+is%3Apr+is%3Amerged+merged%3A2015-11-30..2015-12-06).
 
-Sebastién Nouat ([livecodesebastien](https://github.com/livecodesebastien)) has left the core dev team to go adventuring in South America for a few months.
+Sébastien Nouat ([livecodesebastien](https://github.com/livecodesebastien)) has left the core dev team to go adventuring in South America for a few months.
 
 ### Notable changes
 
