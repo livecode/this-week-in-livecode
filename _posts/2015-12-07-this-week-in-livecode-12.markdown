@@ -13,6 +13,8 @@ This week's edition was edited by [peter-b](https://github.com/peter-b).
 
 ## Updates from the LiveCode open source community
 
+Cyril Pruszko has created an excellent set of learning resources for his lessons at Eleanor Roosevelt High School: [Learning to Create Games, Apps and Programs](https://sites.google.com/a/pgcps.org/livecode/).
+
 ### News & blog posts
 
 * [Organising a meet-up in Toronto](http://www.meetup.com/Greater-Toronto-Area-LiveCode-Users-Group/messages/boards/thread/49435566/)
@@ -20,6 +22,7 @@ This week's edition was edited by [peter-b](https://github.com/peter-b).
 
 ### Interesting discussions
 
+* [LiveCode learning resource for kids](http://forums.livecode.com/viewtopic.php?f=107&t=25972)
 * [How would you trade data between 2 tablets without internet?](http://thread.gmane.org/gmane.comp.ide.revolution.user/220954)
 * [Improving the speed of HTML5 apps](http://forums.livecode.com/viewtopic.php?f=120&t=25345&view=unread#p135062)
 * [Pointlist to Bezier curve approximation](http://article.gmane.org/gmane.comp.ide.revolution.user/221066)
