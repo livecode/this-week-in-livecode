@@ -49,4 +49,5 @@ This week's edition was edited by [peter-b](https://github.com/peter-b).
 ## Upcoming events
 
 * [30th-31st January: FOSDEM 2016](https://fosdem.org/2016) (LiveCode meet-up TBC)
+* [4th February: LiveCode Toronto meetup](http://www.meetup.com/Greater-Toronto-Area-LiveCode-Users-Group/) (venue TBC)
 * [2nd-4th August: LiveCode Conference 2016](https://livecode.com/edinburgh-2016/)
