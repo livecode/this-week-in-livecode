@@ -13,10 +13,8 @@ This week's edition was edited by [peter-b](https://github.com/peter-b).
 
 ## Updates from the LiveCode open source community
 
-### News & blog posts
-
 [Tell us](mailto:opensource@livecode.com?subject=This Week in Livecode) about
-some exciting things you're doing with LiveCode Community edition.
+some exciting things you're doing with LiveCode Community edition!11
 
 ### Interesting discussions
 
