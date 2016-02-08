@@ -13,3 +13,6 @@ github_username:  livecode
 # Build settings
 markdown: kramdown
 highlighter: rouge
+
+# Show posts even if they're dated in the future
+future: true
