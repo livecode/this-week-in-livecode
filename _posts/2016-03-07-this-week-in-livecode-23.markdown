@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This Week In LiveCode 21"
+title:  "This Week In LiveCode 23"
 date:   2016-03-07 12:00
 categories: issue
 ---
