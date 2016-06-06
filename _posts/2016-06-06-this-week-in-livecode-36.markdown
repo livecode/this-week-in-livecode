@@ -41,7 +41,7 @@ This week's edition was edited by [peter-b](https://github.com/peter-b) and [liv
 ### Bug report of the week
 
 [Bug 17790 - Strange behaviour of header bar
-widget](http://quality.livecode.com/show_bug.cgi?id=17747)
+widget](http://quality.livecode.com/show_bug.cgi?id=17790)
 
 This report is particularly helpful because it contains:
 
@@ -67,5 +67,5 @@ This report is particularly helpful because it contains:
 
 ## Upcoming events
 
-* [7th July]: SoCal LiveCode Group meetup](http://forums.livecode.com/viewtopic.php?f=50&t=27433)
+* [7th July](http://forums.livecode.com/viewtopic.php?f=50&t=27433): SoCal LiveCode Group meetup
 * [2nd-4th August: LiveCode Conference 2016](https://livecode.com/edinburgh-2016/)
