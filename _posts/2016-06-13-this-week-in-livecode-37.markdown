@@ -85,7 +85,7 @@ to start?  Try one of these!
 - (Medium) [Navbar widget doesn't generate unique item names](http://quality.livecode.com/show_bug.cgi?id=17687)
 - (Medium) [Engine doesn't parse some ProxyServer formats correctly](http://quality.livecode.com/show_bug.cgi?id=17803)
 - (Medium) [Modify "answer color" to use the correct color profile data on OS X](http://quality.livecode.com/show_bug.cgi?id=14308)
-- (Hard) [Correct rendering of multicolour fonts](http://quality.livecode.com/show_bug.cgi?id=17395)
+- (Hard) [Correct rendering of multicolor fonts](http://quality.livecode.com/show_bug.cgi?id=17395)
 
 ### Contributors this week
 
