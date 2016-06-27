@@ -53,7 +53,7 @@ to start?  Try one of these!
 
 - (Easy) [Make documentation for `dgText[true]` less ambiguous](http://quality.livecode.com/show_bug.cgi?id=17895)
 - (Easy) [Add a default script for scrollbars](http://quality.livecode.com/show_bug.cgi?id=17851)
-- (Medium) [Add a "load extensions command that loads multiple extensions at once"](http://quality.livecode.com/show_bug.cgi?id=15835)
+- (Medium) [Add a `load extensions` command that loads multiple extensions at once](http://quality.livecode.com/show_bug.cgi?id=15835)
 - (Hard) [Support non-LF line endings in script-only stacks](http://quality.livecode.com/show_bug.cgi?id=17810)
 
 ### Contributors this week
