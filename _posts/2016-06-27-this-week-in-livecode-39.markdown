@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "This Week In LiveCode 39"
-date:   2016-06-27 12:00
+date:   2016-06-27 13:00
 categories: issue
 ---
 
@@ -26,12 +26,15 @@ This week's edition was edited by [peter-b](https://github.com/peter-b).
 
 ### News & blog posts
 
+[Tell us](mailto:opensource@livecode.com?subject=This Week in Livecode) about
+some exciting things you're doing with LiveCode Community edition!
 
 ### Interesting discussions
 
 - [Quirk in group resize behaviour](http://thread.gmane.org/gmane.comp.ide.revolution.user/227669)
 - [The limitations of htmlText](http://thread.gmane.org/gmane.comp.ide.revolution.user/227648)
--
+- ["move... to the points" for animation](http://thread.gmane.org/gmane.comp.ide.revolution.user/227786)
+- [LCB array syntax](http://forums.livecode.com/viewtopic.php?f=93&t=27408)
 
 ## Updates in the LiveCode open source project
 
