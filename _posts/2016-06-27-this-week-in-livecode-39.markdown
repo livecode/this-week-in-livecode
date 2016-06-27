@@ -51,16 +51,10 @@ some exciting things you're doing with LiveCode Community edition!
 Want to get involved in the LiveCode open source project but don't know where
 to start?  Try one of these!
 
-<!---
-- (Easy) ['-' in Android app identifier isn't allowed](http://quality.livecode.com/show_bug.cgi?id=15157)
-- (Easy) [Can't use "&" character in the name of an Android app](http://quality.livecode.com/show_bug.cgi?id=15167)
-- (Easy) [Ctrl+Q shortcut not present in Linux script editor](http://quality.livecode.com/show_bug.cgi?id=17435)
-- (Easy) [Check `MCRangeMake()` is always used correctly](http://quality.livecode.com/show_bug.cgi?id=17401)
-- (Medium) [Changing shadow properties causes an error](http://quality.livecode.com/show_bug.cgi?id=17608)
-- (Medium) [Proxy server detection ignores 'Use a proxy server for your LAN'](http://quality.livecode.com/show_bug.cgi?id=17804)
-- (Medium) [Sliders drawn too large on Windows 10](http://quality.livecode.com/show_bug.cgi?id=17126)
-- (Hard) [Correct implementation of "export snapshot" for Linux](http://quality.livecode.com/show_bug.cgi?id=17257)
--->
+- (Easy) [Make documentation for `dgText[true]` less ambiguous](http://quality.livecode.com/show_bug.cgi?id=17895)
+- (Easy) [Add a default script for scrollbars](http://quality.livecode.com/show_bug.cgi?id=17851)
+- (Medium) [Add a "load extensions command that loads multiple extensions at once"](http://quality.livecode.com/show_bug.cgi?id=15835)
+- (Hard) [Support non-LF line endings in script-only stacks](http://quality.livecode.com/show_bug.cgi?id=17810)
 
 ### Contributors this week
 
