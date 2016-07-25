@@ -50,7 +50,7 @@ This week's edition was edited by [peter-b](https://github.com/peter-b) and
 
 ### Bug of the week
 
-[Bug 18025 - Widget problems in Ubuntu 16.04](http://quality.livecode.com/show_bug.cgi?id=17905)
+[Bug 18025 - Widget problems in Ubuntu 16.04](http://quality.livecode.com/show_bug.cgi?id=18025)
 
 This bug is about some problems with widgets, including the browser widget,
 found on Ubuntu Linux 16.04.
