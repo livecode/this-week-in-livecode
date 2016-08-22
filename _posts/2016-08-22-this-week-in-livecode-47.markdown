@@ -33,7 +33,7 @@ and [livecodepanos](https://github.com/livecodepanos).
 
 ### Interesting discussions
 
-* [Alex Tweedy continued The Joy of Removing Features series](hhttp://lists.runrev.com/pipermail/use-livecode/2016-August/thread.html#229972)
+* [Alex Tweedy continued The Joy of Removing Features series](http://lists.runrev.com/pipermail/use-livecode/2016-August/thread.html#229972)
 * [The wonders of trailing delimiters](http://lists.runrev.com/pipermail/use-livecode/2016-August/thread.html#230023)
 * [Garbage collection](http://lists.runrev.com/pipermail/use-livecode/2016-August/thread.html#229935)
 
