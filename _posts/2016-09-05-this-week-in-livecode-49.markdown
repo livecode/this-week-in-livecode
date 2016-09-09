@@ -27,7 +27,7 @@ and [livecodepanos](https://github.com/livecodepanos).
 
 ### News & blog posts
 
-* [@PaulMacClernan](https://github.com/PaulMacClernan) shared a 
+* [@PaulMcClernan](https://github.com/PaulMcClernan) shared a 
 [LCB MIDI library](https://github.com/PaulMcClernan/community.livecode.library.GMIDILib)
 he's working on.
 
