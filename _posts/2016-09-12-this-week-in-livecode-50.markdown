@@ -84,7 +84,7 @@ to start?  Try one of these!
 
 ### Contributors this week
 
-- [PaulMcLernan](https://github.com/PaulMcLernan)
+- [PaulMcClernan](https://github.com/PaulMcClernan)
 - [asayd](https://github.com/asayd)
 - [jameshale](https://github.com/jameshale)
 - [matthewmaier](https://github.com/matthewmaier)
