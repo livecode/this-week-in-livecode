@@ -20,7 +20,7 @@ community.  Want something mentioned?  Tweet
 * [Accounting for new widget properties in an OnLoad handler](http://www.bluemangolearning.com/livecode/2016/09/accounting-for-new-widget-properties-in-an-onload-handler/)
 * Bernd posted an experimental patch that enables [code folding in the script editor](http://lists.runrev.com/pipermail/use-livecode/2016-September/230949.html)
 * ["Thread the Needle" Game](http://learninglivecode.blogspot.com/2016/09/lloyds-physics-simulation-prototype-2.html)
-* Research presented at ICER2016 showed [lower overall cognitive load for LiveCode developers](https://twitter.com/icer2016/status/774099872152559617)
+* Research presented at ICER2016 showed [lower overall cognitive load for LiveCode developers](http://dx.doi.org/10.1145/2960310.2960321)
 
 ### Interesting discussions
 
