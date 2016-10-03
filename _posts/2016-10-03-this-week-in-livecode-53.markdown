@@ -18,6 +18,7 @@ community.  Want something mentioned?  Tweet
 - [Get a Hacktoberfest t-shirt by contributing to LiveCode](https://livecode.com/get-a-hacktoberfest-t-shirt-by-contributing-to-livecode/)
 - [[-hh] has started publishing some neat widgets](http://forums.livecode.com/viewtopic.php?f=93&t=28020)
 - [Why LiveCode - From an Educator's Viewpoint](http://forums.livecode.com/viewtopic.php?f=107&t=26709#p146400)
+- There's a new [French LiveCode forum](http://livecode.rezolocal.com/)
 
 ### Interesting discussions
 
