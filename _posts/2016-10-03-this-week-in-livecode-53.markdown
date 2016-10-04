@@ -22,7 +22,7 @@ community.  Want something mentioned?  Tweet
 
 ### Interesting discussions
 
-- [Analytical Engine - An Introduction to Computer Science](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg79126.html- Found!): Alejandro Tejada has dug up some 23-year-old HyperCard stacks
+- [Analytical Engine - An Introduction to Computer Science](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg79126.html- Found!): Lagi Pittas, Andrew Ferguson and Alejandro Tejada have dug up some 23-year-old HyperCard stacks
 - [Can we move the user list to a Google chat?](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg79091.html): Most people seem to still be happy with a mailing list
 - [@trevordevore](https://github.com/trevordevore) is looking for [Help Adding Cookie support to libURL](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg79040.html)
 
