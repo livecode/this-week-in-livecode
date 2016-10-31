@@ -21,7 +21,7 @@ community.  Want something mentioned?  Tweet
 
 ### Interesting discussions
 
-- [How do I codesign an app?](https://www.mail-archive.com/use-livecode@lists.runrev.com/)
+- [How do I codesign an app?]https://www.mail-archive.com/use-livecode@lists.runrev.com/msg79766.html)
 - [Overriding HTTPS certificate verification failure](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg79744.html)
 
 ## Updates in the LiveCode open source project
