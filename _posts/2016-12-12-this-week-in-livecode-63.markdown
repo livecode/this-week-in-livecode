@@ -72,7 +72,6 @@ to start?  Try one of these:
 - *[livecodeali](https://github.com/livecodeali)*
 - *[livecodefraser](https://github.com/livecodefraser)*
 - *[livecodepanos](https://github.com/livecodepanos)*
-- *[montegoulding](https://github.com/montegoulding)*
 - *[peter-b](https://github.com/peter-b)*
 - *[runrevmark](https://github.com/runrevmark)*
 
