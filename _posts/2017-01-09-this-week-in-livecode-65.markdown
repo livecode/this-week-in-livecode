@@ -31,8 +31,8 @@ Happy new year LiveCoders!
 
 ### New LiveCode releases
 
-- [LiveCode 8.1.2](https://downloads.livecode.com/livecode/8_1_2)
-- [LiveCode 9.0.0 DP 4](https://downloads.livecode.com/livecode/9_0_0)
+- [LiveCode 8.1.2](https://downloads.livecode.com/livecode/#8_1_2)
+- [LiveCode 9.0.0 DP 4](https://downloads.livecode.com/livecode/#9_0_0)
 
 ### Notable changes
 
