@@ -27,7 +27,7 @@ community.  Want something mentioned?  Tweet
 
 ## Updates in the LiveCode open source project
 
-26 pull requests were [merged since the last issue](https://github.com/search?utf8=%E2%9C%93&q=org%3Alivecode+is%3Apublic+is%3Apr+is%3Amerged+merged%3A2017-01-09..2017-01-15&type=Issues&ref=searchresults).
+26 pull requests were [merged since the last issue](https://github.com/search?p=3&q=org%3Alivecode+is%3Apublic+is%3Apr+is%3Amerged+merged%3A2017-01-16..2017-01-22&ref=searchresults&type=Issues&utf8=%E2%9C%93).
 
 
 ### New LiveCode releases
@@ -39,7 +39,7 @@ community.  Want something mentioned?  Tweet
 
 - [Use blocking wait when waiting for screen refresh](https://github.com/livecode/livecode/pull/5088):
   Otherwise many snapshots in quick succession can cause `recursionLimit` to be reached.
-- [Support mobilePickPhoto() maximum width and height settings on Android](https://github.com/livecode/livecode/pull/5087):
+- [Support `mobilePickPhoto()` maximum width and height settings on Android](https://github.com/livecode/livecode/pull/5087):
   A previously ios-only feature that is now supported on Android as well.
 - [Fix memory corruption when getting regular polygon points](https://github.com/livecode/livecode/pull/5095)
 - [Add slider to Property Inspector for `startAngle` and `arcAngle`](https://github.com/livecode/livecode-ide/pull/1521):
