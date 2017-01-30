@@ -16,7 +16,7 @@ community.  Want something mentioned?  Tweet
 ### News & blog posts
 
 - [Curry Kenworthy](http://livecodeconsulting.com) has made some videos about LiveCode:
-  - [How to download LiveCode - find the right version](https://www.youtube.com/watch?v=dEhx3VGhAn)
+  - [How to download LiveCode - find the right version](https://www.youtube.com/watch?v=dEhx3VGhAnw)
   - [LiveCode "Fight Night" - How to test computer programming engine performance](https://www.youtube.com/watch?v=6737_kCLOBU)
 - [revIgniter v1.9.5 Released](https://revigniter.com/news/newsitem/revIgniter_v1.9.5_Released)
 
