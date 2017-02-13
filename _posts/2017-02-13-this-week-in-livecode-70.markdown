@@ -21,7 +21,7 @@ community.  Want something mentioned?  Tweet
 ### Interesting discussions
 
 - [Processing huge images in 32-bit engines](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg82367.html)
-- [`urlProgress` message requires Internet library](http://forums.livecode.com/viewtopic.php?f=49&t=28783)
+- [`urlProgress` message incompatibility with Internet library](http://forums.livecode.com/viewtopic.php?f=49&t=28783)
 - [Offline PDF viewing inside Android browser widget](http://forums.livecode.com/viewtopic.php?f=53&t=28518)
 - [Script-local variables in library stack scripts](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg82318.html)
 - [Where does the response data from a PUT request end up?](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg82308.html)
