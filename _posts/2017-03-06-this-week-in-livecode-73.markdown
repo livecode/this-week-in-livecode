@@ -16,6 +16,8 @@ community.  Want something mentioned?  Tweet
 ### News & blog posts
 
 - [German LiveCode book published](https://livecode.com/german-livecode-book-published/)
+- On Gitter, @HedgeHao reported a
+  [successful build of LiveCode 8.1.3 on a Raspberry Pi 3](https://gitter.im/LiveCode/Lobby?at=58b403c700c00c3d4f935d8b)
 
 ### Interesting discussions
 
