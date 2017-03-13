@@ -16,14 +16,14 @@ community.  Want something mentioned?  Tweet
 ### News & blog posts
 
 - [LiveCode 9.0 DP 6 – Infinite LiveCode Preview](https://livecode.com/livecode-9-0-dp-6-infinite-livecode-preview/)
-- [brimmEng, a free English language learning app for Android that was developed with LiveCode, has been released](http://www.edvista.com/claire/apps/brimmeng.htmlA)
+- [brimmEng, a free English language learning app for Android that was developed with LiveCode, has been released](http://www.edvista.com/claire/apps/brimmeng.html)
 
 
 ### Interesting discussions
 
 - [Messages sent while mouse is down](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg82994.html):
 - [LC for Raspberry Pi](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg83001.html)
-- [Searching "teh" or tihs"](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg82732.html):
+- [Searching "teh" or tihs"](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg82949.html):
   Hermann Hoch has implemented a fuzzySearch algorithm in LiveCode script
 - [Breakpoints being ignored](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg82892.html)
 - [Trouble playing videos with MS DirectShow LC 8](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg82867.html)
