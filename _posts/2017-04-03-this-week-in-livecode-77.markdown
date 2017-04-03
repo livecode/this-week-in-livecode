@@ -43,7 +43,7 @@ community.  Want something mentioned?  Tweet
 
 - [Fix dynamic path behavior](https://github.com/livecode/livecode/pull/5325): This fix will allow a Rev 3.0 user to upgrade to LiveCode 8.1.4-x
 - [Fix inclusion of dbdrivers in Desktop standalones](https://github.com/livecode/livecode/pull/5320): The previous Bug of the Week is now fixed.
-- [Fix regression in 24-hour time format](https://github.com/livecode/livecode/pull/5316): This innocent regression was causing strange unexpected results, see [here](http://forums.livecode.com/viewtopic.php?t=29044&p=152683#p152683) link.
+- [Fix regression in 24-hour time format](https://github.com/livecode/livecode/pull/5316): This innocent regression was causing strange unexpected results, see [here](http://forums.livecode.com/viewtopic.php?t=29044&p=152683#p152683) for more details.
 - [Remove need to save stack to temporary location when building standalone](https://github.com/livecode/livecode/pull/5314)
 
 
