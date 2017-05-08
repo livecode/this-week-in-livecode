@@ -42,7 +42,6 @@ community.  Want something mentioned?  Tweet
 
 ### Notable changes
 
-- [New tsNet version](https://github.com/livecode/livecode/pull/5429): Expected in LiveCode 8.1.4 RC2
 - [Fix mirrored property on Mac](https://github.com/livecode/livecode/pull/5416): A nasty bug, affecting only OSX 10.11 and above, is now fixed.
 - [Defer deletion of script tab](https://github.com/livecode/livecode-ide/pull/1581): A previous "Bug of the Week" is now fixed.
 - [Implement mirror property in windows directshow player](https://github.com/livecode/livecode/pull/5412): New feature for the player object on Windows! 
@@ -87,6 +86,7 @@ This section brings you other interesting news from across the LiveCode universe
 - [tinyDictionary 0_8_1_0](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg84455.html): TinyDictionary is a small footprint dictionary for LiveCode (version 8.1
 and up), developed by Bernd Niggemann.
 - [PowerTools 2.0](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg84449.html): PowerTools is a drop-in plugin replacement for the IDE's built-in tools palette, developed by Mark Wieder.
+- [New tsNet version](https://github.com/livecode/livecode/pull/5429): Expected in LiveCode 8.1.4 RC2
 
 <!---
 ## Upcoming events
