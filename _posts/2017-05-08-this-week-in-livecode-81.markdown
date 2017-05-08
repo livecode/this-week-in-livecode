@@ -84,7 +84,7 @@ to start?  Try one of these:
 
 This section brings you other interesting news from across the LiveCode universe over the last week. This section may include non OSS projects.
 
-- [tinyDictionary 0_8_1_0](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg84455.html): TinyDictionary is a small footprint dictionary for Livecode (version 8.1
+- [tinyDictionary 0_8_1_0](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg84455.html): TinyDictionary is a small footprint dictionary for LiveCode (version 8.1
 and up), developed by Bernd Niggemann.
 - [PowerTools 2.0](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg84449.html): PowerTools is a drop-in plugin replacement for the IDE's built-in tools palette, developed by Mark Wieder.
 
