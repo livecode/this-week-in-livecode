@@ -48,13 +48,13 @@ community.  Want something mentioned?  Tweet
 
 ### Notable changes
 
-- [Draw player snapshot image at correct scale on hi-dpi displays](https://github.com/livecode/livecode/pull/5450): A player, affecting only Retina displays, is now fixed.
+- [Draw player snapshot image at correct scale on hi-dpi displays](https://github.com/livecode/livecode/pull/5450): A bug in the player object, affecting only Retina displays, is now fixed.
 - [Allow the same local port to be used for multiple connections](https://github.com/livecode/livecode/pull/5443)
-- [Fix setting the iphoneSetAudioCategory](https://github.com/livecode/livecode/pull/5446): Allow your iOS app to play sounds even when the device is muted
+- [Fix setting the iphoneSetAudioCategory](https://github.com/livecode/livecode/pull/5446): Allow your iOS app to play sounds even when the device is muted.
 - [Fix native layer placement on Mac](https://github.com/livecode/livecode/pull/5439)
 - [Make LC work with the latest version of Android Studio](https://github.com/livecode/livecode/pull/5436)
 - [Update libgraphics to account for Skia API changes](https://github.com/livecode/livecode/pull/5269)
-- [Update cursor when entering window](https://github.com/livecode/livecode/pull/5452)
+- [Update cursor when entering window](https://github.com/livecode/livecode/pull/5452): A regression bug affecting Windows is now fixed.
 
 
 ### Bug of the week
