@@ -13,11 +13,12 @@ community.  Want something mentioned?  Tweet
 
 ## Updates from the LiveCode open source community
 
-<!---
+
 ### News & blog posts
 
-- [Using Infinite LiveCode for Android to Create Native Controls and Wrap OS APIs](https://livecode.com/using-infinite-livecode-for-android-to-create-native-controls-and-wrap-os-apis/)
---->
+- The Pittsburgh, Pennsylvania LiveCode Education Group held a recent meeting on August 24. We welcomed new member Cyril Pruszko, 
+who is moving to the area. We discussed plans to offer opportunities to learn LiveCode in the region. Please get in touch with 
+Claire Siskin, csiskin@edvista.com, if you would like to be involved in this initiative or to attend our next meeting.
 
 
 ### Interesting discussions
