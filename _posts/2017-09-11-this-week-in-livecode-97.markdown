@@ -44,7 +44,7 @@ Claire Siskin, csiskin@edvista.com, if you would like to be involved in this ini
 
 ### New LiveCode releases
 
-- [LiveCode 8.1.7 RC-1](https://downloads.livecode.com/livecode/#8_1_7):
+- [LiveCode 8.1.7 RC-1](https://downloads.livecode.com/livecode/#8_1_7)
 
 
 ### Notable changes
@@ -64,7 +64,7 @@ Claire Siskin, csiskin@edvista.com, if you would like to be involved in this ini
 
 - [Bug 20336 - set the clipboardData["text"] does not produce real plain text but RTF text](http://quality.livecode.com/show_bug.cgi?id=20336)
 
-The reporters attached a simple and helpful sample stack, and provided a detailed recipe that helped us to test and confirm the problem quickly.
+The reporter attached a simple and helpful sample stack, and provided a detailed recipe that helped us to test and confirm the problem quickly.
 
 ### Help needed!
 
