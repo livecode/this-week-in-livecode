@@ -91,8 +91,6 @@ This section brings you other interesting news from across the LiveCode universe
 - [IPA Build Tool for iOS](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg89757.html)
 - [Beacons and Bluetooth](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg89761.html)
 - [Remote debugging - expected behavior](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg89796.html)
-- [tsNet - tsNetSmtpSync](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg89467.html)
-
 
 
 ## Upcoming events
