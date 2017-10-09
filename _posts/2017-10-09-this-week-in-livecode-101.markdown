@@ -25,8 +25,8 @@ community.  Want something mentioned?  Tweet
 - [Segmented Control Bugs?](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg89865.html)
 - [Scrollbar control and auto complete confusion](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg89879.html)
 - [LiveCode documentation set now available for Dash compatible readers](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg89895.html)
-- [How do I play sound files in HTML5?](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg89787.html)
-- [Expanded dictionary in LC 9](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg89798.html)
+- [How do I play sound files in HTML5?](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg89956.html)
+- [Expanded dictionary in LC 9](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg89964.html)
 - [Grouping Controls in selectGroupedControls mode](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg89967.html)
 - [Atkinson dither algorithm](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg89975.html)
 - [How to define inclusions of a standalone by script?](http://forums.livecode.com/viewtopic.php?f=8&t=29943)
@@ -60,7 +60,7 @@ This was not possible in LiveCode 8.1.7 RC-2.
 - [Fixed bug causing crash on mouseEnter](https://github.com/livecode/livecode/pull/5990)
 - [Fix optionKeyDown handler](https://github.com/livecode/livecode-ide/pull/1767)
 - [Add emscripten deploy library](https://github.com/livecode/livecode/pull/5962): A list of all installed browsers will now appear under the "Test Target" button, when building a HTML5 standalone.
-- [Fix unicode not show in browser's htmlText](https://github.com/livecode/livecode/pull/5387)
+- [Fix unicode not showing in browser's htmlText](https://github.com/livecode/livecode/pull/5387)
 - [Check order of buttons when returning answer dialog result](https://github.com/livecode/livecode/pull/5969)
 - [Fix segmented control docs mismerge](https://github.com/livecode/livecode/pull/6021): A LC 9 regression is now fixed.
 - Lots of fixes (regarding invalid links, malformed text) in various dictionary entries in LiveCode 8.2.x. Thanks @livecodesam :)
