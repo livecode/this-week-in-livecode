@@ -55,9 +55,9 @@ community.  Want something mentioned?  Tweet
 
 ### Bug of the week
 
-- [Bug 20534 - LC9dp9 - Segmented Control doesn't work with LC8](http://quality.livecode.com/show_bug.cgi?id=20534)
+- [Bug 20520 - Showing/hiding images in a data grid causes incorrect display](http://quality.livecode.com/show_bug.cgi?id=20520)
 
-The reporter attached a simple and helpful sample stack, and provided useful info and a detailed recipe that helped us to test, confirm and fix the problem quickly.
+The reporter attached a simple and helpful sample stack, and provided useful info and a detailed recipe that helped us to test and confirm the problem quickly.
 
 ### Help needed!
 
