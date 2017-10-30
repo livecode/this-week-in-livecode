@@ -102,9 +102,7 @@ This section brings you other interesting news from across the LiveCode universe
 
 ## Upcoming events
 
-* [LiveCode Global: Our Next Conference in Your City](https://livecode.com/livecode-global-our-next-conference-in-your-city/): 48 hours of Conference content streamed live around the globe! Save the dates:
-
-- 16th of November 2017
+* [LiveCode Global: Our Next Conference in Your City](https://livecode.com/livecode-global-our-next-conference-in-your-city/): 48 hours of Conference content streamed live around the globe! Save the last date: 16th of November 2017.
 
 * [2nd November : SoCal LiveCode Group meetup - Pasadena](http://forums.livecode.com/viewtopic.php?f=50&t=30044)
 
