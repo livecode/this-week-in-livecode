@@ -13,10 +13,9 @@ community.  Want something mentioned?  Tweet
 
 ## Updates from the LiveCode open source community
 
-
+<!---
 ### News & blog posts
-
-- [LiveCode Global 2018](https://livecode.com/global/lcg18/): Join our live 2018 Conference
+--->
 
 
 
