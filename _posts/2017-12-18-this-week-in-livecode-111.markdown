@@ -29,8 +29,8 @@ community.  Want something mentioned?  Tweet
 - [Screen Resolution for Desktop Apps](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg91336.html)
 - [Shout Out to dev@livecode](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg91351.html)
 - [LC Server 8.1.7 Community - Sessions work?](http://forums.livecode.com/viewtopic.php?f=15&p=161401#p161401)
-- [I can not delete files on Windows](http://forums.livecode.com/viewtopic.php?f=18&t=30304&p=161515#p161515)
-- [Windows system tray icon](http://forums.livecode.com/viewtopic.php?f=18&t=30297&p=161468#p161468)
+- [I can not delete files on Windows](http://forums.livecode.com/viewtopic.php?f=18&t=30304)
+- [Windows system tray icon](http://forums.livecode.com/viewtopic.php?f=18&t=30297)
 
 ## Updates in the LiveCode open source project
 
@@ -115,7 +115,7 @@ This section brings you other interesting news from across the LiveCode universe
 
 ## Thank you!
 
-Thank you so much everyone for your contributions this year. We wish you all a very Merry Holiday season, and a Happy New Year! This week in LiveCode will be with you again on Monday 15th January, 2018.
+Thank you so much everyone for your contributions this year. We wish you all a very Merry Holiday season, and a Happy New Year! *This Week in LiveCode* will be with you again on Monday 15th January, 2018.
 
 
 ## Contribute!
