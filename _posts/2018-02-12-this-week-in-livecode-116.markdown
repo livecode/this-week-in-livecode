@@ -25,7 +25,7 @@ community.  Want something mentioned?  Tweet
 
 - [How to calm down the Standalone Builder?](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg92603.html)
 - [SE: restore default handlers?](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg92609.html)
-- [Delete imported audioclips?](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg92473.html)
+- [Delete imported audioclips?](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg92627.html)
 - [update to Mkvmerger](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg92654.html)
 - [how to format text for copy-pasting as a spreadsheet table](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg92656.html)
 - [Execute multiple MySQL commands](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg92657.html)
