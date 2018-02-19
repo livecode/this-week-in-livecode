@@ -61,7 +61,7 @@ community.  Want something mentioned?  Tweet
 - [Fix issues with users' extension guides](https://github.com/livecode/livecode-ide/pull/1891)
 - [TileCache - Selection Layer](https://github.com/livecode/livecode/pull/6268)
 - [Handle unset app id and set for user](https://github.com/livecode/livecode-ide/pull/1901)
-- [Output to module.<module_version>.lcm when compiling](https://github.com/livecode/livecode-ide/pull/1903)
+- [Output to module._module_version_.lcm when compiling](https://github.com/livecode/livecode-ide/pull/1903)
 
 ### Bug of the week
 
