@@ -27,14 +27,15 @@ community.  Want something mentioned?  Tweet
 - [Linux 32-bit?](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg93419.html)
 - [LC 9 and Icon Families](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg93423.html)
 - [code signing cost](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg93429.html)
-- [Dash LiveCode Docset and "Make Docset" stack updated](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg93438.html)
+- [Dash LiveCode Docset and "Make Docset" stack updated](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg93438.html) Thank you @James
 - [Sound delay](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg93441.html)
 - [Not sure what to do...can I run this by you guys?](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg93452.html)
 - [9.0.0 RC-1 Hard crash still persists + New problem](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg93466.html)
 - [mouseDown and mouseUp; Being Called Outside the Group](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg93488.html)
 - [Stupid Question Again - Proportional Scaling](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg93491.html)
 - [A poor man's app updater](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg93504.html)
-- [TinyIDE now on GitHub](http://forums.livecode.com/viewtopic.php?t=30764&p=165153#p165153)
+- [TinyIDE now on GitHub](http://forums.livecode.com/viewtopic.php?t=30764&p=165153#p165153) Thank you @AndyP
+- [Free tool for ease Windows Installer creation](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg93394.html) Thank you @Matthias
 
 
 ## Updates in the LiveCode open source project
