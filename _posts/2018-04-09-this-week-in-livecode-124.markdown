@@ -29,7 +29,7 @@ community.  Want something mentioned?  Tweet
 - [v9 experience grinds to a halt. non-functioning breakpoints.](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg93820.html)
 - [configuring a Windows Installer for a Standalone](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg93854.html)
 - [commandine standalone using 100% of core on doing what?](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg93868.html)
-- [Understanding numberformat](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg93645.html)
+- [Understanding numberformat](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg93897.html)
 - [formatForPrinting](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg93907.html)
 - [Project Browser Goes Blank - How To Refresh](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg93928.html)
 - [RevMail - Status in 9.0](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg93929.html)
@@ -51,7 +51,7 @@ community.  Want something mentioned?  Tweet
 ### Notable changes
 
 - [Make sure stack and pending stack limit are the same](https://github.com/livecode/livecode/pull/6472)
-- [Fixed errors when setting textFont/textSize on Android native button](https://github.com/livecode/livecode/pull/6455)
+- [Fixed errors when setting textFont/textSize on Android native button](https://github.com/livecode/livecode/pull/6470)
 - [Enhance TreeView numeric sort to sort non-numbers](https://github.com/livecode/livecode/pull/6464) Thanks @BrianMilby
 - [Prevent index errors when expanding TreeView buffer](https://github.com/livecode/livecode/pull/6463)
 - [Prevent TreeView chunk out of range error on Linux](https://github.com/livecode/livecode/pull/6461)
