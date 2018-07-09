@@ -61,7 +61,7 @@ community.  Want something mentioned?  Tweet
 
 - [Bug 21402 - AWSS3PutBucket fails when creating a bucket in a region other than us-east-1](http://quality.livecode.com/show_bug.cgi?id=21402)
 
-The user provided useful info, a detailed recipe as well as a helpful sample stack that allowed us to test, confirm and fix the problem quickly.
+The user provided useful info, a detailed recipe as well as a helpful sample stack that allowed us to test and confirm the problem quickly.
 
 ### Help needed!
 
