@@ -13,12 +13,11 @@ community.  Want something mentioned?  Tweet
 
 ## Updates from the LiveCode open source community
 
-
+<!---
 ### News & blog posts
 
 - [Develop Yourself Video Competition Winner Announced](https://livecode.com/develop-yourself-video-competition-winner-announced/)
-
-
+--->
 
 ### Interesting discussions
 
