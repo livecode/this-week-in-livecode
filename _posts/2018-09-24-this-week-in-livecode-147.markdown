@@ -60,7 +60,7 @@ community.  Want something mentioned?  Tweet
 
 ### Bug of the week
 
-- [Bug 21580 - Properties Inspector ->fields -> contents tab -> "show grid" does not toggle](http://quality.livecode.com/show_bug.cgi?id=21580)
+- [Bug 21586 - [Anomaly?] Can't reference name of the default card of a new stack](http://quality.livecode.com/show_bug.cgi?id=21586)
 
 The reporter provided a detailed recipe as well as a helpful simple sample stack that allowed us to test and confirm the problem quickly.
 
