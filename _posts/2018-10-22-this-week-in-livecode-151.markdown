@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "This Week In LiveCode 151"
-date:   2018-10-22 15:00
+date:   2018-10-22 15:30
 categories: issue
 ---
 
