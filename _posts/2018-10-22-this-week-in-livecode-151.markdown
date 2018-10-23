@@ -65,7 +65,14 @@ The reporter provided a detailed recipe as well as a helpful simple sample stack
 ### Help needed!
 
 Want to get involved in the LiveCode open source project but don't know where
-to start?  Try one of these:
+to start?  
+
+First read these posts from Trevor DeVore for detailed instructions on:
+
+- [how to submit a pull request](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg98530.html)
+- [how to add a bugfix note to the pull request](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg98585.html)
+
+Then try one of these:
 
 - (Easy) [Dictionary entry for open file is incomplete](https://quality.livecode.com/show_bug.cgi?id=18773)
 - (Easy) [Docs: Describe the behavior of stack title/label property](https://quality.livecode.com/show_bug.cgi?id=19660)
