@@ -68,7 +68,7 @@ to start?
 First read these posts from Trevor DeVore for detailed instructions on:
 
 - [how to submit a pull request](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg98530.html)
-- [how to add a bugfix note to the pull request](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg98585.html)
+- [how to add a bugfix note to the pull request](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg98611.html)
 
 Then try one of these:
 
