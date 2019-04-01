@@ -27,13 +27,13 @@ community.  Want something mentioned?  Tweet
 - [What is Macintosh equivalent of relaunch handler?](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg101242.html)
 - [ANN: bnGuides has been updated](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg101271.html)
 - [Call for a contributor: LC Server enhancement](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg101326.html)
-- [LC-based OSS Document Managment System Looking For Love](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg101333.html)
+- [LC-based OSS Document Management System Looking For Love](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg101333.html)
 - [Anchor links in browser widget](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg101338.html)
 - [Hello World not installing](http://forums.livecode.com/viewtopic.php?t=32399&p=178232#p178232)
 
 ## Updates in the LiveCode open source project
 
-35 pull requests were [merged since the last issue](https://github.com/search?q=org%3Alivecode+is%3Apublic+is%3Apr+is%3Amerged+merged%3A2019-03-18..2019-03-24&type=Issues).
+35 pull requests were [merged since the last issue](https://github.com/search?q=org%3Alivecode+is%3Apublic+is%3Apr+is%3Amerged+merged%3A2019-03-25..2019-03-31&type=Issues).
 
 
 
