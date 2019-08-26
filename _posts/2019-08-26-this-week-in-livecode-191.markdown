@@ -21,6 +21,8 @@ community.  Want something mentioned?  Tweet
 
 ### Interesting discussions
 
+- [HTML5 Focus-Move-Resize v_100](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg103329.html)
+- [Scaling Imported Images](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg103331.html)
 - [This Web URL Stopped Working in LiveCode all versions. HELP!](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg103345.html)
 - [Multicolored card redraw chaos](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg103338.html)
 - [DatGrid2 Form view slowdown](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg103358.html)
