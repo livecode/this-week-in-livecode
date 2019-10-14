@@ -49,7 +49,7 @@ community.  Want something mentioned?  Tweet
 
 ### Bug of the week
 
-- [Bug 22403 - FlaggedRanges bug in chunk expression](https://quality.livecode.com/show_bug.cgi?id=22403)
+- [Bug 22403 - Saving a stack with open script containing Unicode prompt 'Script reloaded' popup](https://quality.livecode.com/show_bug.cgi?id=22403)
 
 The reporter provided a detailed description and sample stack that allowed us to test and confirm the problem quickly.
 
