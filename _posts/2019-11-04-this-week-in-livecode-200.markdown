@@ -62,13 +62,13 @@ community.  Want something mentioned?  Tweet
 - [Disable deleted object pool creation whilst debugging](https://github.com/livecode/livecode/pull/7185): The random crashes while debugging in the script editor are now fixed!
 --->
 
-<!---
+
 ### Bug of the week
 
-- [Bug 22408 - Display issues when changing stack and orientation on iOS](https://quality.livecode.com/show_bug.cgi?id=22408)
+- [Bug 22440 - [PB] Cards are offset 1 level too deep if name of a main stack contains "of"](https://quality.livecode.com/show_bug.cgi?id=22440)
 
-The reporter provided a detailed description and a helpful sample stack that allowed us to test and confirm the problem quickly.
---->
+The reporter provided a detailed description that allowed us to test and confirm the problem quickly. Moreover, he suggested a solution that seems to fix the problem :)
+
 
 ### Help needed!
 
