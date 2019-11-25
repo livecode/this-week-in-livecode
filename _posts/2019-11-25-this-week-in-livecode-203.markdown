@@ -24,7 +24,7 @@ community.  Want something mentioned?  Tweet
 - [WebP-Tool v103](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg104922.html)
 - [Special Graphic Effects - Kill Performance On Rapid Redraws](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg104935.html)
 - [browserDocumentLoadComplete working correctly?](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg104957.html)
-- [xpaj-gen infection?]https://www.mail-archive.com/use-livecode@lists.runrev.com/msg104965.html)
+- [xpaj-gen infection?](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg104965.html)
 - [remove DEFAULTMENUBAR?](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg104970.html)
 - [Help Wrapping HTMLTidy in LCB](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg104973.html)
 - [macOS, is my app active?](https://www.mail-archive.com/use-livecode@lists.runrev.com/msg104981.html)
