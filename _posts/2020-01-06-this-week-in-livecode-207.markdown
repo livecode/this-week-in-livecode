@@ -56,7 +56,7 @@ community.  Want something mentioned?  Tweet
 ### Bug of the week
 
 - [Bug 22511 - JSONImport throws an error if JSON includes multi-codepoint characters](https://quality.livecode.com/show_bug.cgi?id=22511)
-- [Setting dragData["private"] wipes out clipboarddata](https://quality.livecode.com/show_bug.cgi?id=22508)
+- [Bug 22508 - Setting dragData["private"] wipes out clipboarddata](https://quality.livecode.com/show_bug.cgi?id=22508)
 
 The reporter provided a detailed recipe and a helpful sample stack that allowed us to test and confirm the problem quickly.
 
