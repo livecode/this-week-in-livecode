@@ -48,6 +48,7 @@ community.  Want something mentioned?  Tweet
 - [Fix tracking of mouse events during modal session](https://github.com/livecode/livecode/pull/7445)
 - [Send RowLeftSwipeControlClicked with target param](https://github.com/livecode/livecode-ide/pull/2143)
 - [Remove unneccessary creation and clearance of SKBitmap](https://github.com/livecode/livecode/pull/7442)
+
 <!---
 ### Bug of the week
 
