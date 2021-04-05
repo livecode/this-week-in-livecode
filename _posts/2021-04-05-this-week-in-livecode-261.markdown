@@ -36,7 +36,7 @@ community.  Want something mentioned?  Tweet
 
 ## Updates in the LiveCode open source project
 
-3 pull requests were [merged since the last issue](https://github.com/search?q=org%3Alivecode+is%3Apublic+is%3Apr+is%3Amerged+merged%3A2021-03-29..2021-04-05&type=Issues).
+4 pull requests were [merged since the last issue](https://github.com/search?q=org%3Alivecode+is%3Apublic+is%3Apr+is%3Amerged+merged%3A2021-03-29..2021-04-05&type=Issues).
 
 <!--
 ### New LiveCode releases
@@ -48,7 +48,7 @@ community.  Want something mentioned?  Tweet
 ### Notable changes
 
 - [Fix unresponsiveness of engine when scrolling on Big Sur](https://github.com/livecode/livecode/pull/7541)
-
+- [Fix copying data from clipboard via IStream objects on Windows](https://github.com/livecode/livecode/pull/7540)
 
 <!--
 ### Bug of the week
